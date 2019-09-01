@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iekaivohx.byhuy.com/sitemap.xml
